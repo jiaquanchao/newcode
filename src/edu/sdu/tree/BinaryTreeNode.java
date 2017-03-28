@@ -10,4 +10,5 @@ public class BinaryTreeNode<T> {
     public BinaryTreeNode(T value){
         this.value = value;
     }
+    public BinaryTreeNode(){}
 }
